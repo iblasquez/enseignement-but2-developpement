@@ -1,4 +1,4 @@
-package fr.unilim.iut.katatennis;
+package katatennis;
 
 public interface TennisGame {
     void wonPoint(String playerName);
