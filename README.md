@@ -25,9 +25,9 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 ## Exposés sur les Patterns <a id="expose"></a>
 
-- Présentations de quelques design patterns et autres notions avancées de conception logicielle (travaux réalisés par les étudiants depuis 2022)
+- [Présentations de quelques patterns et autres notions avancées de conception logicielle (travaux réalisés par les étudiants depuis 2022)](./patterns/design_presentations.md)
 
-- [Quelques références autour des Design Patterns](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee/blob/master/patterns/references_patterns.md)
+- [Quelques références autour des Design Patterns](./patterns/references_patterns.md)
 
 - Archives : [Présentations de quelques design patterns et autres notions avancées de conception logicielle (travaux réalisés par les étudiants depuis 2017)](https://github.com/iblasquez/enseignement-iut-m3105-conception-avancee/blob/master/patterns/design_presentations.md)
 
