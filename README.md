@@ -19,7 +19,7 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 
 ### R3.04 : Support de cours relatifs à la Qualité de développement 
-
+- [Doublures de test](./cours/TestDouble_Mockito.pdf) 
 
 - ...  ressource en cours d'enseignement, à venir ....
 
