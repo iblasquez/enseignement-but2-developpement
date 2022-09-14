@@ -22,7 +22,13 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 - [Doublures de test](./cours/TestDouble_Mockito.pdf) 
 - [Ecrire du code SOLID](./cours/SOLID.pdf) 
 
+### R3.10 : Analyse
 
+#### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
+- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf)  
+
+
+... un dépôt complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile) ...
 
 ## Exposés sur les Patterns <a id="expose"></a>
 
