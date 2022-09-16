@@ -17,15 +17,14 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 ## Supports de cours <a id="cours"></a>
 
+### R3.03 : Analyse
+#### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
+- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf)  
+
 
 ### R3.04 : Support de cours relatifs à la Qualité de développement 
 - [Doublures de test](./cours/TestDouble_Mockito.pdf) 
 - [Ecrire du code SOLID](./cours/SOLID.pdf) 
-
-### R3.10 : Analyse
-
-#### Le *bon* produit (*the right product*) : De la vision aux features : les outils du Product Owner  
-- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf)  
 
 
 ... un dépôt complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile) ...
@@ -47,10 +46,6 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 
 ## Enoncés de TP <a id="tp"></a>
 
-*Tous vos TP doivent être versionnés !*
-
-
-
 
 - **Pré-requis** : **Installation d'un JDK dans votre environnement de développement**
 	- **Avez-vous une version du JDK d'installer sur votre machine ?**  
@@ -62,8 +57,12 @@ Vous pouvez également récupérer des versions du jdk sur [jdk.java.net](https:
 La version du jdk qui a été paramétré dans votre variable d'environnement JAVA_HOME doit s'afficher. Si ce n'est pas le cas, rendez-vous [ici](https://github.com/iblasquez/Back2Basics_Developpement) et plus particulièrement le lien [wikiHow to Set Java Home](https://www.wikihow.com/Set-Java-Home).
 
 
+- **Tous vos TP doivent être versionnés !**
 
-- ...  à venir ....
+### R3.04 : TP Qualité de développement
+
+- TP n° 1 (inspiration **[Kata Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)**) :  
+[Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](./TP/R3_04/R3_04_BonnesPratiques_KataTennis.pdf) 
 
 
 ## Ressources complémentaires <a id="ressources"></a>
