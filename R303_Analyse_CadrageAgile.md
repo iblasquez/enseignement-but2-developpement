@@ -1,17 +1,14 @@
-# Réaliser un développement d'application (BUT Informatique 2ème année)
+# BUT2 : Analyse (R3.03) : le *bon* produit (*the right product*) <a id="R303"></a>
 
-Dans ce dépôt, vous trouverez les supports relatifs aux ressources suivantes
+## Cadrage Agile : De la vision aux features : les outils du Product Owner  
 
-- [Analyse (R3.03) : the *right* product](R303_Analyse_CadrageAgile.md)
-- [Qualité de développement (R3.04) : the product *right*](R304_QualiteDeveloppement.md)
+
+- [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf) 
 
 
 *Un dépôt plus complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile)*
 
-# On en discute ?
-Pour les discussions, c'est par [là](https://github.com/iblasquez/enseignement-but2-developpement/issues)  
-Pour les propositions de contenu, de modification par [ici](https://github.com/iblasquez/enseignement-but2-developpement/pulls)  
-Et bien sûr, n'hésitez pas à personnaliser vos messages avec des [emojis](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
+
 
 Licence
 -------
