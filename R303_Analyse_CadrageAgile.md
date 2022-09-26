@@ -4,6 +4,7 @@
 
 
 - [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf) 
+- [Impact Mapping](./cours/ImpactMapping.pdf) 
 
 
 *Un dépôt plus complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile)*
