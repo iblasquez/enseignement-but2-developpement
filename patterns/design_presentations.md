@@ -77,7 +77,7 @@
 
 |Visitor				|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation]([lien_vers_votre_travail](https://unilim-my.sharepoint.com/:p:/g/personal/paul_rezzonico_etu_unilim_fr/EZE8ZhHvuy5CipJwgPLIzvwBn9nrzfKaNHEIkJ2z4u7JMg?e=xEsyT3)) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding]([lien_vers_votre_video](https://git.unilim.fr/rezzonico1/pattern-visiteur/-/tree/main/videos)) et/ou [QCM]([lien_vers_votre_travail](https://docs.google.com/forms/d/1FzS69faJzEpZ4YSut2MXXoIFx02h7_SLMhj06zOc4bg/edit)) et/ou autre(s) | 
 
 
 ## Patterns hors GoF
