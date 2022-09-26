@@ -37,7 +37,7 @@
 
 | Decorator			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](lien_vers_votre_travail)(https://github.com/DylanRichard/Decorator-pattern.git) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video)(https://www.youtube.com/watch?v=AZX98YQTIKg&ab_channel=cOpeRency) et/ou [QCM](lien_vers_votre_travail)(https://docs.google.com/forms/d/e/1FAIpQLSdwXvqXDT7sC6px1cee7SXMC1wEq9ovdX7gvnHJnJJhJKRD1A/viewform?usp=sf_link) et/ou autre(s) | 
 
 
 | Facade			|  Documentation |  
