@@ -13,7 +13,7 @@
 
 | Abstract Factory 	|  Documentation |  
 | :---				|  :---: 	 	 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |     
+|Automne 2022 		| [présentation](lien_vers_votre_travail)https://github.com/castanie-valentin/Factory-and-Abstract-factory/blob/main/Factory%20%26%20Abstract%20Factory%20Pattern.pdf et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding][(lien_vers_votre_video)](https://www.youtube.com/watch?v=rJ6uBMQPjOo&ab_channel=YlianF) et/ou [QCM](lien_vers_votre_travail)https://docs.google.com/forms/d/e/1FAIpQLSdPckyp3fxR5sfqWue6Hq-4RKxqlQf1nYtD51p_Yhmq8yD3uw/viewform et/ou autre(s) |     
 
 
 
