@@ -120,7 +120,7 @@
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://github.com/Mkdirs/pattern-immuable/blob/master/Pattern%20immuable.pdf) et [live_coding](https://youtu.be/_7v23-qt0w4) et [QCM](https://forms.gle/kV2f1ZvdDHLuWMxUA) | 
 
 
 
