@@ -21,7 +21,7 @@
 
 | Builder 			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2022 		| [présentation](https://docs.google.com/presentation/d/1qSQohPzHwRSvL308N2gdR_ZCB9u6eXytNIRNQO_crEc/edit?usp=sharing) et/ou [tutoriel tech.io](https://youtu.be/m5PRY76f3Hk) et [live_coding](lien_vers_votre_video) et/ou [QCM]([lien_vers_votre_travail](https://docs.google.com/forms/d/e/1FAIpQLSelD9kLlNvUXxOVPAgJaNioa6Jgrd_eG5B8TQK2tMR3XH7EcA/viewform?usp=sf_link)) et/ou autre(s) |  
 
 
 ### Patrons de structure (GoF)
