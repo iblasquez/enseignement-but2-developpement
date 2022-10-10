@@ -107,7 +107,7 @@
 
 | Value Object - Entity -  Agrégat	|  Documentation |  
 | :---						|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://unil.im/presentationDDD) , live_coding : Inclus dans la présentation , [QCM](bit.ly/3TbNOen)| 
 
 
 
