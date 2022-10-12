@@ -13,7 +13,9 @@
 
 | Abstract Factory 	|  Documentation |  
 | :---				|  :---: 	 	 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |     
+|Automne 2022 		| [présentation](https://github.com/castanie-valentin/Factory-and-Abstract-factory/blob/main/Factory%20%26%20Abstract%20Factory%20Pattern.pdf) - [live_coding](https://www.youtube.com/watch?v=rJ6uBMQPjOo&ab_channel=YlianF) - [QCM](https://forms.gle/fwx7rEhGF7dL4HZJ8) |    
+
+    
 
 
 
@@ -32,7 +34,7 @@
 
 | Composite			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://unilim-my.sharepoint.com/:p:/g/personal/lucas_pialleport_etu_unilim_fr/EcrDp0LmMMxOkwmr3AFJPdkBtQaSuT7cNtwACQfeZeouRg?e=bLX7iG) et [live_coding](https://youtu.be/pVqbM4-rxVw) et/ou [QCM](https://bit.ly/3LX7vEm) | 
 
 
 | Decorator			|  Documentation |  
@@ -77,7 +79,7 @@
 
 |Visitor				|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2022 		| [présentation](https://unilim-my.sharepoint.com/:p:/g/personal/paul_rezzonico_etu_unilim_fr/EZE8ZhHvuy5CipJwgPLIzvwBn9nrzfKaNHEIkJ2z4u7JMg?e=xEsyT3) -  [live_coding](https://git.unilim.fr/rezzonico1/pattern-visiteur/-/tree/main/videos) - [QCM](https://docs.google.com/forms/d/1FzS69faJzEpZ4YSut2MXXoIFx02h7_SLMhj06zOc4bg/edit) | 
+|Automne 2022 		| [présentation](https://unil.im/DQ50R) -  [live_coding](https://github.com/Nakuzaki/Pattern-Visiteur/tree/master/videos) - [QCM](https://unil.im/BfGTE) | 
 
 
 ## Patterns hors GoF
@@ -105,7 +107,7 @@
 
 | Value Object - Entity -  Agrégat	|  Documentation |  
 | :---						|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://unil.im/presentationDDD) , live_coding : Inclus dans la présentation , [QCM](bit.ly/3TbNOen)| 
 
 
 
@@ -118,7 +120,7 @@
 
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://github.com/Mkdirs/pattern-immuable/blob/master/Pattern%20immuable.pdf) et [live_coding](https://youtu.be/_7v23-qt0w4) et [QCM](https://forms.gle/kV2f1ZvdDHLuWMxUA) | 
 
 
 
