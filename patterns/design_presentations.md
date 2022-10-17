@@ -59,7 +59,7 @@
 
 | Command			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2022 		| [présentation](https://prezi.com/view/4WtV1ZkJtoLcO9t6fgVg/) et [live_coding](https://youtu.be/P091uAo1QPE) et/ou [QCM](https://docs.google.com/forms/d/e/1FAIpQLSeFVB5Z-BBOFOjHkBIQWD_HtU9ZxyvJY51jBg5bji_3PG0elg/viewform) | 
 
 
 | Observer			|  Documentation |  
