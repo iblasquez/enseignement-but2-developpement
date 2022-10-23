@@ -64,7 +64,7 @@
 
 | Observer			|  Documentation |  
 | :---				|  :---: 	 |  
-|Automne 2022 		| [présentation](lien_vers_votre_travail) et [live_coding](https://youtu.be/P1DdjH3gqo8) et [QCM](https://forms.gle/1JNucGyzzCXLtjHu7) | 
+|Automne 2022 		| [présentation](https://github.com/Ouidkling/ObserverPatternPresentation/blob/main/Observer%20pattern.pdf) et [live_coding](https://youtu.be/P1DdjH3gqo8) et [QCM](https://forms.gle/1JNucGyzzCXLtjHu7) | 
 
 
 | State				|  Documentation |  
