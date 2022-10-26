@@ -6,7 +6,9 @@
 - [Une bonne vision pour bien commencer (Elevator Pitch, Product Box, Carte d'Empathie & Personnas)](./cours/VisionProduit.pdf) 
 - [Impact Mapping](./cours/ImpactMapping.pdf)  
 - [Story Mapping](./cours/StoryMapping.pdf)  
-- [(D)écrire une première story](./cours/DecrirePremiere_Story.pdf)  
+- [(D)écrire une première story](./cours/DecrirePremiere_Story.pdf) 
+- [Définition de Fini : DoD (Definition of Dod) avec l'aide des DoDKards](./cours/DoDKards.pdf) 
+
 
 
 *Un dépôt plus complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile)*
