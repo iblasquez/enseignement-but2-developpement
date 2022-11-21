@@ -15,7 +15,8 @@ Dans ce dépôt, vous trouverez les rubriques suivantes :
 ## Supports de cours <a id="cours"></a>
 
 - [Doublures de test](./cours/TestDouble_Mockito.pdf) 
-- [Ecrire du code SOLID](./cours/SOLID.pdf) 
+- [Ecrire du code SOLID](./cours/SOLID.pdf)  
+- [Quid de la documentation ?](./cours/QuidDocumentation.pdf)  
 
 
 
