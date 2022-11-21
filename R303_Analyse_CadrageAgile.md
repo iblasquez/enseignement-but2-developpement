@@ -9,6 +9,8 @@
 - [(D)écrire une première story](./cours/DecrirePremiere_Story.pdf) 
 - [Définition de Fini : DoD (Definition of Dod) avec l'aide des DoDKards](./cours/DoDKards.pdf) 
 
+- Vidéo : [La gestion du produit agile en deux mots](https://www.youtube.com/watch?v=3qMpB-UH9kA) (version française de [Agile Product Ownership in a Nutshell by Henrik Kniberg](https://www.youtube.com/watch?v=502ILHjX9EE))
+
 
 
 *Un dépôt plus complet autour du développement logiciel agile est disponible sur [https://github.com/iblasquez/enseignement-developpement-logiciel-agile](https://github.com/iblasquez/enseignement-developpement-logiciel-agile)*
