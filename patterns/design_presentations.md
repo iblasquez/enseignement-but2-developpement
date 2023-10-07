@@ -22,7 +22,7 @@
 | Builder 			|  Documentation |  
 | :---				|  :---: 		 |   
 |Automne 2022 		| [présentation](https://docs.google.com/presentation/d/1qSQohPzHwRSvL308N2gdR_ZCB9u6eXytNIRNQO_crEc/edit?usp=sharing) et/ou [tutoriel tech.io](https://youtu.be/m5PRY76f3Hk) et [live_coding](lien_vers_votre_video) et/ou [QCM]([lien_vers_votre_travail](https://docs.google.com/forms/d/e/1FAIpQLSelD9kLlNvUXxOVPAgJaNioa6Jgrd_eG5B8TQK2tMR3XH7EcA/viewform?usp=sf_link)) et/ou autre(s) |  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |   
+|Automne 2023 		| [présentation](https://docs.google.com/presentation/d/1_D0zZmQO8xnnUSzhNwgApSh2D_5cq-90Qb_mu0PtHxY/edit) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](https://drive.google.com/file/d/1LsXxn_FDhGU8rqJsK7eM57VYirdk8Mdp/view?usp=sharing) et/ou [QCM](https://create.kahoot.it/groups/728d69c1-7892-45fb-8536-57d0ced2f9f6/join?inviteCode=2rr5to27g0ahq5aaobq35hd91vjr1l6j9s8qge6s3bujrjno0moj2bgfqj9hmvtvf4hq6qu4pgv22) et/ou [QCM de secour (google form)](https://docs.google.com/forms/d/e/1FAIpQLScOjmZGCaaMN3cwnJn5XsTmftWB4tQXXJS9iIX0bWSB2VDkYw/viewform?usp=sharing) |   
 
 
 ### Patrons de structure (GoF)
