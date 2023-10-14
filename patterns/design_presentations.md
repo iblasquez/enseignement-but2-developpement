@@ -82,7 +82,7 @@
 | Strategy			|  Documentation |  
 | :---				|  :---: 		 |     
 |Automne 2022 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2023 		| [présentation](https://1drv.ms/p/s!AoNmuOa7OvKJga8fz8ev-Gz2XqxVHQ?e=d7r0dD) et [live_coding](https://www.youtube.com/watch?v=kZuRLWs6rcs) et/ou [QCM](https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:b0504577-6d60-3b26-bb12-9d291004f7bf) et/ou autre(s) |  
 
 
 |Visitor				|  Documentation |  
