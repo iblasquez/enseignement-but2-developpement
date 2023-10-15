@@ -76,7 +76,7 @@
 | State				|  Documentation |  
 | :---				|  :---: 		 |  
 |Automne 2022 		| [présentation](https://1drv.ms/p/s!AtpP2kMBNvS-grNbpWe-EYzs08kxiQ?e=9jhmH2) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](https://youtu.be/LZWX7sWQuEg) et/ou [QCM](https://unil.im/stateQCM22) et/ou autre(s) |  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2023 		| [présentation](https://docs.google.com/presentation/d/1t42X43zTko8oz7VqdYBNyt4mMqBUBcIXaVhJYm8ILes/edit#slide=id.g28cc7c45407_1_0) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](https://drive.google.com/file/d/1sGWXDjLta_BGO0E3g_Hzdlqg1Pp8P46t/view) et/ou [QCM](https://create.kahoot.it/details/7ba87b16-85b4-4c17-9cfe-1b5996fda930) et/ou autre(s) |  
 
 
 | Strategy			|  Documentation |  
