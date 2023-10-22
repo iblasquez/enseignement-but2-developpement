@@ -131,7 +131,7 @@
 | Vers un code immutable (pourquoi ? comment ?) |  Documentation |  
 | :---											|  :---: 		 |  
 |Automne 2022 		| [présentation](https://github.com/Mkdirs/pattern-immuable/blob/master/Pattern%20immuable.pdf) et [live_coding](https://youtu.be/_7v23-qt0w4) et [QCM](https://forms.gle/kV2f1ZvdDHLuWMxUA) |  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2023 		| [présentation]([lien_vers_votre_travail](https://github.com/Mohamed-hub16/Immubailit-/blob/main/immuabilit%C3%A9.pdf) et [live_coding](https://youtu.be/yUe2pD8RpmI) et [QCM](https://create.kahoot.it/share/immuabilite-du-code/99ee2cba-6e0f-480e-9652-35d3b3d2758f) et/ou autre(s) |  
 
 
 
