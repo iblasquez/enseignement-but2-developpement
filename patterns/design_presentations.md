@@ -123,7 +123,7 @@
 
 | Null pour les nuls		|  Documentation |  
 | :---						|  :---: 		 |   
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2023 		| [présentation](https://unil.im/diaporamaNOP) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](https://unil.im/videoNOP) et/ou [QCM](https://unil.im/qcmNOP) et/ou autre(s) | 
 
 
 
