@@ -31,7 +31,7 @@
 | Adapter 			|  Documentation |  
 | :---				|  :---: 		 |  
 |Automne 2022 		| [présentation](https://docs.google.com/presentation/d/1xbDDfysar6czEdNDW7MsUPSO_FvMIWl6dDqYZvhPEnM/edit?usp=sharing), [live_coding](https://youtu.be/XhhiBMMW11Q) et [QCM](https://docs.google.com/forms/d/e/1FAIpQLSfnNHg4SenWEdgAsI1tN1a8iVDFZGt03Q_Hr19VaCmcQhr30w/viewform?usp=sf_link) |   
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2023 		| [présentation](https://docs.google.com/presentation/d/1Du76NuSt_Gnd0RJpgWVTJLEwMI964Q_ULvfsBL7tHjI/edit#slide=id.g11f682941b8_0_111) et [live_coding](https://youtu.be/GGKtNzFpk1M?si=imQtIrS4magjDBTv) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
 
 
 | Composite			|  Documentation |  
