@@ -48,7 +48,7 @@
 
 | Facade			|  Documentation |  
 | :---				|  :---: 		 |  
-|Automne ... 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne ... 		| [présentation](https://docs.google.com/presentation/d/1Du76NuSt_Gnd0RJpgWVTJLEwMI964Q_ULvfsBL7tHjI/edit#slide=id.g11f682941b8_0_111) et [live_coding](https://youtu.be/DbYdCO2R1mc?si=hOuT-FafP8USGyo5) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
 
 
 
