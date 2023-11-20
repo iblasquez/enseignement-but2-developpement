@@ -54,7 +54,8 @@
 
 | Proxy			|  Documentation |  
 | :---				|  :---: 		 |   
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) | 
+|Automne 2023 		|[présentation](https://docs.google.com/presentation/d/1wL_cpCZXDAcEmLtTt1O0lqcFojXnB5WQL8DRCeu-_q4/edit?usp=sharing) et [live_coding](https://www.youtube.com/watch?v=PXc9wTbI3a8
+) et [QCM](https://create.kahoot.it/share/le-patron-de-proxy/f4d31d57-2314-46c0-b962-1517d31d1791) |
 
 
 
