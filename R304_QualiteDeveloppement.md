@@ -50,12 +50,46 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 
 - **Tous vos TP doivent être versionnés !**
 
-- TP n° 1 (inspiration **[Kata Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)**) :  
+	- TP n° 1 (inspiration **[Kata Tennis](https://github.com/emilybache/Tennis-Refactoring-Kata)**) :  
 [Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](./TP/R3_04/R3_04_BonnesPratiques_KataTennis.pdf) 
 
-- TP n°2 : Prise en main des doublures de test et de Mockito  
-[version PDF](./TP/R3_04/R3_04_Mockito_PriseEnMain.pdf) 
- ou [en ligne sur le dépôt iblasquez/tuto_mockito](https://github.com/iblasquez/tuto_mockito)
+	- TP n°2 : (doublure de tests)  
+[Prise en main des doublures de test et de Mockito](./TP/R3_04/R3_04_Mockito_PriseEnMain.pdf) également [en ligne sur le dépôt iblasquez/tuto_mockito](https://github.com/iblasquez/tuto_mockito)
+
+
+	- TP n° 3 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) :  
+[En route pour l’écriture d'un code plus propre et plus SOLID - Kata Car Racing : tirePressureMonitoringSystem ](./TP/R3_04/R3_04_SOLID_Kata_Car_Racing.pdf)  
+
+
+	- TP n° 4 (inspiration  **[Kata Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata)** - OCP/DIP) :  
+[Kata Parrot (guidé) ](./TP/R3_04/R3_04_SOLID_Polymorphism_KataParrot.pdf) 
+
+
+	- TP n° 5 (S.O.L.I.D) :     
+[Une SOLIDe revue de code](./TP/R3_04/R3_04_SOLID_Revue.pdf)  
+
+
+	- TP n° 6 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)** - SRP/Test Data Builder)   
+[Kata Car Racing : le retour ! Encore plus SOLID et clean ! ](./TP/R3_04/R3_04_CarRacing_SRP_CleanTest_Builder.pdf)  
+
+
+	- TP n° 7 (inspiration  **[Kata Kebab](https://github.com/malk/the-kebab-kata)** & pattern Visiteur) :  
+[Kata Kebab à notre sauce : visitons les kébabs !](./TP/R3_04/R3_04_KataKebab_SauceVisiteur.pdf)    
+
+
+
+	- TP n° 8 (pattern Chaine de responsabilité : CoR) :   
+[A la découverte du pattern Chaîne de Responsabilité](./TP/R3_04/R3_04_CoR_ATM.pdf)  
+
+
+
+	- TP n° 9 (kata pour s'entraîner) :   
+[Kata Mars Rover](./TP/R3_04/R3_04_MarsRover.pdf)  
+
+
+	- TP n° 10 (pattern Composite) :  
+[Au menu : un composite toulousain-limousin ! avec un zeste de diagramme objets](./TP/R3_04/R3_04_Composite.pdf)  
+ 
 
 
 ## Ressources complémentaires <a id="ressources"></a>
