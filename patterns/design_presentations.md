@@ -117,7 +117,7 @@
 | Value Object - Entity -  Agrégat	|  Documentation |  
 | :---						|  :---: 		 |  
 |Automne 2022 		| [présentation](https://unil.im/presentationDDD) , live_coding : Inclus dans la présentation , [QCM](bit.ly/3TbNOen)|  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2023 		| [présentation](https://github.com/Mkdirs/but2-r304-ddd/blob/master/DDD.pdf) , [live_coding](https://youtu.be/8JrU-aoXXWI?si=-I7chRG0LW-0jV5c) et [QCM](https://create.kahoot.it/creator/08bbe29f-d6be-403a-b89b-f5cdf700659a) |  
 
 
 
