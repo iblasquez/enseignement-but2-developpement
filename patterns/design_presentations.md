@@ -37,7 +37,7 @@
 | Composite			|  Documentation |  
 | :---				|  :---: 		 |  
 |Automne 2022 		| [présentation](https://unilim-my.sharepoint.com/:p:/g/personal/lucas_pialleport_etu_unilim_fr/EcrDp0LmMMxOkwmr3AFJPdkBtQaSuT7cNtwACQfeZeouRg?e=bLX7iG) et [live_coding](https://youtu.be/pVqbM4-rxVw) et/ou [QCM](https://bit.ly/3LX7vEm) |  
-|Automne 2023 		| [présentation](lien_vers_votre_travail) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](lien_vers_votre_video) et/ou [QCM](lien_vers_votre_travail) et/ou autre(s) |  
+|Automne 2023 		| [présentation](https://unilim-my.sharepoint.com/:p:/g/personal/tom_charpentier_etu_unilim_fr/EblKRdAVsA5Mkhh3kFDcBP0BXO-02IEYY9UoLCk35UiqCg?e=4%3A8XGf73&fromShare=true&at=9&CID=7e91c9e1-d120-616f-8162-6761b7adf241) et/ou [tutoriel tech.io](lien_vers_votre_travail) et [live_coding](https://www.youtube.com/watch?v=sHTk2Ylsu-Y&ab_channel=baptistelafarge) et/ou [QCM](https://docs.google.com/document/d/1pcp6mqS7683aSKyDwagQlZcZTXb6eyiuB-BUndXfqqo/edit?usp=sharing) et/ou autre(s) |  
 
 
 | Decorator			|  Documentation |  
