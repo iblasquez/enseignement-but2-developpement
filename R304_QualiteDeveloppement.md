@@ -52,8 +52,7 @@ La version du jdk qui a été paramétré dans votre variable d'environnement JA
 [Mise en place de bonnes pratiques de développement autour du refactoring du Kata Tennis](./TP/R3_04/R3_04_BonnesPratiques_KataTennis.pdf) 
 
 	- TP n°2 : (doublure de tests)  
-[Prise en main des doublures de test et de Mockito](./TP/R3_04/R3_04_Mockito_PriseEnMain.pdf) également [en ligne sur le dépôt iblasquez/tuto_mockito](https://github.com/iblasquez/tuto_mockito)
-
+[Prise en main des doublures de test et de Mockito](./TP/R3_04/R3_04_Mockito_PriseEnMain.pdf) 
 
 	- TP n° 3 (inspiration  **[Kata Racing Car](https://github.com/emilybache/Racing-Car-Katas)**) :  
 [En route pour l’écriture d'un code plus propre et plus SOLID - Kata Car Racing : tirePressureMonitoringSystem ](./TP/R3_04/R3_04_SOLID_Kata_Car_Racing.pdf)  
